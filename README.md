@@ -7,5 +7,5 @@
   - :books: [Fungsi](https://github.com/AikaMinami/Java-Exercise/blob/main/Function.java)   
     
 ## 2. Latihan   
- - :computer: Problem 1 (Array, Kondisi, Rekursi, dan Fungsi)
+ - :computer: [Problem 1 (Array, Kondisi, Rekursi, dan Fungsi)](https://github.com/AikaMinami/Java-Exercise/blob/main/Problem1.java)   
 
